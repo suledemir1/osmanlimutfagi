@@ -1,0 +1,20 @@
+/*! glabol css*/
+@import url(base.css);
+
+/*!  layout */
+@import url(layout/header.css);
+@import url(layout/footer.css);
+
+/*!  components */
+@import url(components/modal-search.css);
+@import url(components/slider.css);
+@import url(components/category-item.css);
+
+/*! pages  */
+@import url(pages/home.css);
+
+/*! container  */
+@import url(container.css);
+
+
+@import url(style.css);

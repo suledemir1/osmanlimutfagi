@@ -1,0 +1,42 @@
+.menüler {
+    display: flex;
+    align-items: center;
+    /* Dikey hizalamayı ortala */
+    justify-content: center;
+    /* Yatay hizalamayı ortala */
+    flex-direction: column;
+    /* Elemanları dikey olarak düzenle */
+    text-align: left;
+    /* Metni ortala */
+    background-color: rgb(206, 226, 252);
+}
+
+img {
+    max-width: 100%;
+    /* Resmi container'a göre genişlet */
+    height: 300px;
+    /* Orantılı olarak yüksekliği ayarla */
+}
+
+.menüler {
+    padding-top: 50px;
+    padding-right: 300px;
+    padding-bottom: 20px;
+    padding-left: 300px;
+}
+
+.baslik {
+    text-align: center;
+}
+
+.tarif {
+    margin-bottom: 30px;
+    /* iki div'in alt tarafına 20 piksel boşluk bırakır */
+
+}
+.result-item{
+    max-width: 100%;
+    /* Resmi container'a göre genişlet */
+    height: 300px;
+    /* Orantılı olarak yüksekliği ayarla */
+}
